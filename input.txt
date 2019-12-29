@@ -1,0 +1,4 @@
+LiptonTea drinking 10 20
+coca-cola drinking 10 5
+hotdog meat 10 25
+Persil washing 10 6

@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1513982594 source:d:\education\oop project\item.cpp
+	"item.h"
+
+1514053626 d:\education\oop project\item.h
+	<string>
+	<iostream>
+
+1514060451 source:d:\education\oop project\main.cpp
+	<bits/stdc++.h>
+	"Adminstrator.h"
+	"Person.h"
+	"Customer.h"
+	"MyTime.h"
+
+1514058389 source:d:\education\oop project\stock.cpp
+	"stock.h"
+	<fstream>
+	<iomanip>
+	<iostream>
+	<string>
+	<windows.h>
+	<stdio.h>
+
+1514060748 d:\education\oop project\stock.h
+	"item.h"
+	<string>
+	<fstream>
+
+1514059789 source:d:\education\oop project\adminstrator.cpp
+	<bits/stdc++.h>
+	"Adminstrator.h"
+	"Person.h"
+	"Customer.h"
+	"MyTime.h"
+
+1514058389 d:\education\oop project\adminstrator.h
+	"stock.h"
+	"Customer.h"
+
+1514056767 d:\education\oop project\customer.h
+	"stock.h"
+	"Time.h"
+	"Person.h"
+	"MyTime.h"
+
+1514043882 d:\education\oop project\person.h
+	<bits/stdc++.h>
+
+1514060034 d:\education\oop project\mytime.h
+	<iomanip>
+	<bits/stdc++.h>
+
+1514058517 source:d:\education\oop project\customer.cpp
+	<bits/stdc++.h>
+	"Person.h"
+	"Customer.h"
+	"MyTime.h"
+
+1514059316 source:d:\education\oop project\mytime.cpp
+	"MyTime.h"
+
+1514043753 source:d:\education\oop project\person.cpp
+	<bits/stdc++.h>
+	"Person.h"
+
